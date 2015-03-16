@@ -1,0 +1,8 @@
+c:\users\boris\documents\visual studio 2012\Projects\RandomLottaryNumbers\RandomCominations\bin\Debug\RandomCominations.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\RandomLottaryNumbers\RandomCominations\bin\Debug\RandomCominations.exe
+c:\users\boris\documents\visual studio 2012\Projects\RandomLottaryNumbers\RandomCominations\bin\Debug\RandomCominations.pdb
+c:\users\boris\documents\visual studio 2012\Projects\RandomLottaryNumbers\RandomCominations\obj\Debug\RandomCominations.Form1.resources
+c:\users\boris\documents\visual studio 2012\Projects\RandomLottaryNumbers\RandomCominations\obj\Debug\RandomCominations.Properties.Resources.resources
+c:\users\boris\documents\visual studio 2012\Projects\RandomLottaryNumbers\RandomCominations\obj\Debug\RandomCominations.csproj.GenerateResource.Cache
+c:\users\boris\documents\visual studio 2012\Projects\RandomLottaryNumbers\RandomCominations\obj\Debug\RandomCominations.exe
+c:\users\boris\documents\visual studio 2012\Projects\RandomLottaryNumbers\RandomCominations\obj\Debug\RandomCominations.pdb
